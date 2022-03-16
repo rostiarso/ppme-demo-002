@@ -1,6 +1,6 @@
 ################################# Slider #####################################
 slider:
-  enable : true
+  enable : false
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
@@ -39,7 +39,7 @@ slider:
 
 ############################### Banner feature ###############################
 banner_feature:
-  enable : true
+  enable : false
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
@@ -66,12 +66,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  title : "About PPME Den Haag"
+  image : "images/about/masjid-maba-6RizJ86nCfA-unsplash.jpg"
+  content : "An Islamic organization founded by a group of about twenty Indonesian students who lived in the Netherlands and what was then West Germany. This group, of which the 4th President of Indonesia Abdurrachman Wahid was part, regularly met in the Netherlands to practice their faith together. From there arose a desire to set up something to represent the interests of Muslims in the Netherlands. PPME stands for Persatuan Pemuda Muslim se-Eropa, in Dutch this is freely translated Association of Young Muslims in Europe. It mainly focuses on promoting the interests of Muslims in the Netherlands and Europe. And especially the Indonesian community. This made the Netherlands a Muslim community richer at that time, in addition to the Turkish, Moroccan, Surinamese and Pakistani communities that were already active at that time."
   button:
     enable : true
     label : "Learn more"
@@ -86,7 +83,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : true
+  enable : false
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
@@ -97,7 +94,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
