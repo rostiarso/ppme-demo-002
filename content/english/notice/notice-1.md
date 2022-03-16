@@ -13,38 +13,60 @@ type: "notice"
 ---
 
 
-### About Notice
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-### Requirements
+Marriage in Islam is a form of worship. By entering into a marriage you fulfill half of your religion. Marriage changes the relationship between a man and a woman. What used to be haram is now halal. Marriage is a sacred event and has the value of worship. PPME The Hague can help to complete marriage according to Islamic teachings.
 
 
+>## وَأَنكِحُوا۟ ٱلْأَيَـٰمَىٰ مِنكُمْ وَٱلصَّـٰلِحِينَ مِنْ عِبَادِكُمْ وَإِمَآئِكُمْ ۚ إِن يَكُونُوا۟ فُقَرَآءَ يُغْنِهِمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ >وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ ٣٢
+>
+>
+>*Marry off the ˹free˺ singles among you, as well as the righteous of your bondmen and bondwomen. If they are poor, Allah will enrich them out of His bounty. For Allah is All-Bountiful, All-Knowing. [**An-Nur: 32**](https://quran.com/24/32)*
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+If you want to have an Islamic marriage at the PPME The Hague, you need the following:
+
+From the bride -to-be :
 
 
-### Fees and Funding
+* A completed registration form, can be downloaded [**here**](/forms/Aanmeldformulier.docx)
+* A passport photo in triplicate
+* A copy of a valid Dutch passport
+* And otherwise a copy of a valid residence permit
+* Are you converted? Then we ask for a copy of the certificate of conversion
+* Are you a widow? Then we ask for a copy of the death certificate
+* Are you divorced? Then we ask for a copy of the divorce deed
+* Letter in which your father gives permission for the marriage
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+From the future groom :
+
+
+* A completed registration form, can be downloaded [**here**](/forms/Aanmeldformulier.docx)
+* A passport photo in triplicate
+* A copy of a valid Dutch passport
+* And otherwise a copy of a valid residence permit
+* Copy of a valid passport of two male Islamic witnesses
+* Are you converted? Then we ask for a copy of the certificate of conversion
+* Are you a widow? Then we ask for a copy of the death certificate
+* Are you divorced? Then we ask for a copy of the divorce deed
+* The dowry
+
+In order for a valid Islamic marriage to be solemnized, the following items must be present at the wedding:
+
+
+* The groom
+* The bride
+* The Bride's Guardian
+* Two male Islamic witnesses
+* The dowry
+* Wedding ceremony
+
+The overview below shows the costs for a wedding at PPME Den Haag:
+
+
+|                              | **Member**   | **Non-Member** | 
+| ---------------------------- | ----------- | -------------- |
+| Imaam                        | € 100       | € 100          |
+| Transport outside The Hague  | € 0,30 p/km | € 0,30 p/km    |
+| Remote Location              | € 50        | € 50           | 
+| Administration               | € 75        | € 150          |
+
+Do you have any questions about the nikah? Mail to info@ppmedenhaag.nl .
