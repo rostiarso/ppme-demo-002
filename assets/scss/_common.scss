@@ -395,6 +395,8 @@ textarea.form-control{
       margin-bottom: 0;
       color: $text-color;
       font-style: italic !important;
+      border-left: 4px solid $primary-color;
+      padding: 0.5em 10px;
     }
   }
 

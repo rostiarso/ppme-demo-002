@@ -23,7 +23,7 @@
   translation: Latest Article
 
 - id: categories
-  translation: Categories
+  translation: Kategori
 
 - id: tags
   translation: Tags
@@ -44,7 +44,7 @@
   translation: time
 
 - id: category
-  translation: Category
+  translation: Kategori
 
 - id: related_course
   translation: Related Course

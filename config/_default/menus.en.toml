@@ -1,0 +1,26 @@
+[[main]]
+name = "Dakwah"
+url = "dakwah/"
+weight = 1
+
+[[main]]
+name = "Ibadah"
+url = "ibadah/"
+weight = 2
+
+[[main]]
+name = "Events"
+url = "event/"
+weight = 3
+
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 5
