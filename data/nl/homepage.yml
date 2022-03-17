@@ -66,15 +66,13 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Educenter"
+  title : "PPME"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "12 april 1971. De geboortedag van PPME. Een Islamitische organisatie opgericht door een groep van ongeveer twintig Indonesische studenten die in Nederland en het toenmalige West-Duitsland woonden. Deze groep, waar de 4e president van Indonesië Abdurrachman Wahid, onderdeel van was, kwam geregeld samen in Nederland om gezamenlijk hun geloof te belijden. Van daaruit ontstond een verlangen om iets op te richten om belangen van moslims in Nederland te behartigen.
+PPME staat voor Persatuan Pemuda Muslim se-Eropa, in het Nederlands is dit vrij vertaald Vereniging van Jonge Islamieten in Europa. Het richt zich hoofdzakelijk op het behartigen van belangen van moslims in Nederland en Europa. En daarin in het bijzonder de Indonesische gemeenschap. Daarmee was Nederland in die tijd een moslimgemeenschap rijker naast de Turkse, Marokkaanse, Surinaamse en Pakistaanse gemeenschap die in die tijd al actief waren."
   button:
     enable : true
-    label : "Learn more"
+    label : "Lees Meer"
     link : "about/"
 
 
@@ -95,18 +93,14 @@ cta:
     link : "contact/"
 
 
-######################## Success story #############################
-success_story:
+######################## Vision Mission #############################
+vision_mission:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  vision_title : "Visie PPME"
+  mission_title : "Missie PPME"
+  vision : "Onze visie is om te streven naar een vereniging die toegankelijk is voor alle moslims en met elkaar verbroedering nastreeft. Een vereniging die bestaat uit een hechte gemeenschap, waarin zowel jong als oud zich thuis voelt, die met elkaar de islam actief en bewust beleeft. We zijn een moderne en toekomstgerichte vereniging die progressie nastreeft en waar mogelijk zetten we technologie in om onze leden te ondersteunen en te faciliteren. Toekomstgericht betekent ook dat we, naast het actief en bewust beleven van de islam, actief onze bijdrage willen leveren aan een volhoudbare en betrokken samenleving. PPME staat midden in de samenleving."
+  mission : "Onze missie is om – in de lijn van Ahlus Sunnah wal Djama’ah  – onze leden te ondersteunen bij hun persoonlijke en religieuze ontwikkeling. Bovendien willen we het positieve beeld over de islam verspreiden en begrip voor de islam versterken en zo meer mensen uitnodigen om toe te treden tot de islam. Met de mogelijkheden die wij als gemeenschap hebben willen we een belangrijke bijdrage leveren aan de maatschappij. Zo willen wij werken aan de ontwikkeling van actieve en bewuste moslims die hun geloof volgens de leer van Ahlus Sunnah wal Djama’ah  belijden, bruggen bouwen en daarmee een positieve impact maken op de maatschappij."
 
 
 ############################# event ################################
@@ -121,20 +115,17 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Members"
+      count : "100"
 
     # funfact item loop
-    - name : "COURSES"
+    - name : "Children Learning Qur'an"
       count : "50"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "Years of Active Community"
+      count : "50"
 
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
 
 # funfact is for about page
 
