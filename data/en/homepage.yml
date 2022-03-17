@@ -92,18 +92,16 @@ cta:
     link : "contact/"
 
 
-######################## Success story #############################
-success_story:
-  enable : false
+######################## Vision Mission #############################
+vision_mission:
+  enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  vision_title : "Our Vision"
+  mission_title : "Our Mission"
+  vision : "Our vision is to strive for an association that is accessible to all Muslims and that strives for fraternization with each other. An association that consists of a close-knit community, in which both young and old feel at home, who actively and consciously experience Islam together. We are a modern and future-oriented association that strives for progress and where possible we use technology to support and facilitate our members. Future-oriented also means that, in addition to actively and consciously experiencing Islam, we also want to make an active contribution to a sustainable and committed society. PPME is at the heart of society."
+  mission : "Our mission is – in line with Ahlus Sunnah wal Jama’ah – to support our members in their personal and religious development. In addition, we want to spread the positive image of Islam and strengthen understanding of Islam and thus invite more people to join Islam. We want to make an important contribution to society with the opportunities that we have as a community. In this way we want to work on the development of active and conscious Muslims who profess their faith according to the teachings of Ahlus Sunnah wal Jama’ah, build bridges and thus make a positive impact on society."
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
@@ -118,20 +116,18 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Members (Family)"
+      count : "100"
 
     # funfact item loop
-    - name : "COURSES"
+    - name : "Children Learning Qur'an"
       count : "50"
 
     # funfact item loop
-    - name : "STUDENTS"
-      count : "1000"
+    - name : "Years of Active Community"
+      count : "50"
 
-    # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+
 
 # funfact is for about page
 
