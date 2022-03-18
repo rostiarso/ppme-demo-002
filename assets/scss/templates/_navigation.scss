@@ -11,7 +11,7 @@
 }
 
 .navigation {
-  background: linear-gradient(to right, transparent 50%, $primary-color 50%);
+  background: linear-gradient(to right, transparent 50%, $secondary-color 50%);
   transition: .2s ease;
 
   @include desktop {
@@ -31,7 +31,7 @@
 
 .navbar-nav {
   padding-left: 50px;
-  background: $primary-color;
+  background: $secondary-color;
 
   @include desktop {
     padding-left: 0;
@@ -43,9 +43,18 @@
   background-color: $secondary-color;
 }
 
+.navbar-light {
+  .navbar-nav{
+    .nav-link{
+      color: $text-color-dark;
+    }
+
+  }
+  
+}
 .nav-item {
   .nav-link {
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-weight: 600;
   }
 
