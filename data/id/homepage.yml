@@ -4,63 +4,40 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Banner1"
+      content : "Banner1"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "Banner1"
+        link : "#"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Banner1"
+      content : "Banner1"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
-
-
+        label : "Banner1"
+        link : "#"
 ############################### Banner feature ###############################
 banner_feature:
   enable : false
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Feature1"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Feature1"
 
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
 
 
 ############################## about ##################################
@@ -77,18 +54,18 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Course"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : ""
+  title : "Bergabung dengan PPME Den Haag"
   button:
     enable : true
-    label : "join now"
+    label : "Daftar"
     link : "contact/"
 
 

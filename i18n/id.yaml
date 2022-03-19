@@ -76,8 +76,18 @@
 - id: join
   translation: Gabung
   
+- id: enter_name
+  translation: Nama anda
+
 - id: enter_email
-  translation: Masukkan email Anda…
+  translation: Alamat email
+
+- id: enter_subject
+  translation: Subyek
+
+- id: enter_message
+  translation: Masukkan pesan anda...
+
 
 - id: company
   translation: perusahaan

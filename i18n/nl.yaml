@@ -76,8 +76,20 @@
 - id: join
   translation: Join
   
+- id: enter_name
+  translation: Uw naam
+
 - id: enter_email
   translation: Voer uw e-mailadres in...
+
+- id: enter_subject
+  translation: Onderwerp
+
+- id: enter_message
+  translation: Schrijf uw bericht...
+
+
+
 
 - id: company
   translation: bedrijf

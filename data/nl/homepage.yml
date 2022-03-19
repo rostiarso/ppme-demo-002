@@ -4,38 +4,25 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Banner 1"
+      content : "Banner 1"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
+        label : "Banner1"
+        link : "#"
 
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Banner 1"
+      content : "Banner 1"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact/"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact/"
-
+        label : "Banner1"
+        link : "#"
 
 ############################### Banner feature ###############################
 banner_feature:
@@ -43,33 +30,21 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Feature1"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Feature1"
 
     # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
+    - name : "Feature1"
+      icon : "ti-book" # icon pack : https://themify.me/themify-icons
+      content : "Feature1"
 
 ############################## about ##################################
 about:
   enable : true
   title : "Over PPME Den Haag"
   image : "images/about/about-ppme.jpg"
-  content : "12 april 1971. De geboortedag van PPME. Een Islamitische organisatie opgericht door een groep van ongeveer twintig Indonesische studenten die in Nederland en het toenmalige West-Duitsland woonden. Deze groep, waar de 4e president van Indonesië Abdurrachman Wahid, onderdeel van was, kwam geregeld samen in Nederland om gezamenlijk hun geloof te belijden. Van daaruit ontstond een verlangen om iets op te richten om belangen van moslims in Nederland te behartigen.
-PPME staat voor Persatuan Pemuda Muslim se-Eropa, in het Nederlands is dit vrij vertaald Vereniging van Jonge Islamieten in Europa. Het richt zich hoofdzakelijk op het behartigen van belangen van moslims in Nederland en Europa. En daarin in het bijzonder de Indonesische gemeenschap. Daarmee was Nederland in die tijd een moslimgemeenschap rijker naast de Turkse, Marokkaanse, Surinaamse en Pakistaanse gemeenschap die in die tijd al actief waren."
+  content : "12 april 1971. De geboortedag van PPME. Een Islamitische organisatie opgericht door een groep van ongeveer twintig Indonesische studenten die in Nederland en het toenmalige West-Duitsland woonden. Deze groep, waar de 4e president van Indonesië Abdurrachman Wahid, onderdeel van was, kwam geregeld samen in Nederland om gezamenlijk hun geloof te belijden. Van daaruit ontstond een verlangen om iets op te richten om belangen van moslims in Nederland te behartigen. PPME staat voor Persatuan Pemuda Muslim se-Eropa, in het Nederlands is dit vrij vertaald Vereniging van Jonge Islamieten in Europa. Het richt zich hoofdzakelijk op het behartigen van belangen van moslims in Nederland en Europa. En daarin in het bijzonder de Indonesische gemeenschap. Daarmee was Nederland in die tijd een moslimgemeenschap rijker naast de Turkse, Marokkaanse, Surinaamse en Pakistaanse gemeenschap die in die tijd al actief waren."
   button:
     enable : true
     label : "Lees Meer"
@@ -78,18 +53,18 @@ PPME staat voor Persatuan Pemuda Muslim se-Eropa, in het Nederlands is dit vrij 
 
 ############################# Course ################################
 course:
-  enable : true
-  title : "Our Course"
+  enable : false
+  title : "Onze cursusen"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : ""
+  title : "Word lid van PPME Den Haag"
   button:
     enable : true
-    label : "join now"
+    label : "Neem contact op"
     link : "contact/"
 
 

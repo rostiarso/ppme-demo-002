@@ -1,7 +1,7 @@
 ---
 title: "Socialisatie PPME Den Haag"
 # Schedule page publish date
-publishDate: "2022-03-19T00:00:00Z"
+publishDate: "2022-03-19T00:00:00+01:00"
 # event date
 date: "2021-12-11T19:00:00+01:00"
 duration: "2 uur"

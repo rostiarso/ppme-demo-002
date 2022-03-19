@@ -76,8 +76,17 @@
 - id: join
   translation: Join
   
+- id: enter_name
+  translation: Your Name
+
 - id: enter_email
-  translation: Enter your email…
+  translation: Email address
+
+- id: enter_subject
+  translation: Subject
+
+- id: enter_message
+  translation: Type your message…
 
 - id: company
   translation: company

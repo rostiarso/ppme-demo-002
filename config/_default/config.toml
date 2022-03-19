@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 #baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
-baseURL = "https://ppme-demo-002-a.web.app"
+baseURL = "/"
 
 title = "PPME Den Haag"
 #theme = "educenter-hugo-not-used"
@@ -60,7 +60,7 @@ mobile = "+31-to-be-confirmed"
 phone_komisi_jenazah = "0682688948"
 email = "info@ppmedenhaag.nl"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mknyzkkn" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header

@@ -6,7 +6,7 @@
     weight = 1
     home = "Home"
     # copyright
-    copyright = "PPME Den Haag IT Division - 2022 | Based on [Educenter](https://github.com/themefisher/educenter-hugo) Hugo theme"
+    copyright = "PPME Den Haag 2022"
 
 ################################### Indonesian language #####################################
 [id]
@@ -16,7 +16,7 @@
     weight = 2
     home = "Home"
     # copyright
-    copyright = "PPME Den Haag IT Division - 2022 | Based on [Educenter](https://github.com/themefisher/educenter-hugo) Hugo theme"
+    copyright = "PPME Den Haag 2022"
 
 
 
@@ -29,7 +29,7 @@
     weight = 3
     home = "Home"
     # copyright
-    copyright = "PPME Den Haag IT Division - 2022 | Based on [Educenter](https://github.com/themefisher/educenter-hugo) Hugo theme"
+    copyright = "PPME Den Haag 2022"
 
 
 
