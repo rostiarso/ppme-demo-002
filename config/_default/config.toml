@@ -1,6 +1,7 @@
 ######################## default configuration ####################
 #baseURL = "https://demo.gethugothemes.com/educenter/examplesite/"
 baseURL = "https://ppme-demo-002-a.web.app"
+
 title = "PPME Den Haag"
 #theme = "educenter-hugo-not-used"
 # post pagination
