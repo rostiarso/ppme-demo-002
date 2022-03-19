@@ -105,7 +105,7 @@ vision_mission:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Events"
   # event item comes from "content/**/event" folder.
 
   

@@ -1,26 +1,26 @@
 - id: read_more
-  translation: Read More
+  translation: Baca Selengkapnya
 
 - id: contact_form
-  translation: Contact Form
+  translation: Formulir Kontak
 
 - id: send
-  translation: send message
+  translation: kirim pesan
 
 - id: contact_info
-  translation: Contact Info
+  translation: Info Kontak
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Berlangganan Buletin
 
 - id: subscribe
-  translation: Subscribe
+  translation: Berlangganan
 
 - id: contact_us
-  translation: Contact Us
+  translation: Hubungi Kami
 
 - id: latest_article
-  translation: Latest Article
+  translation: Artikel Terbaru
 
 - id: categories
   translation: Kategori
@@ -29,82 +29,82 @@
   translation: Tags
 
 - id: see_all
-  translation: See all
+  translation: Lihat semua
 
 - id: apply_now
-  translation: Apply now
+  translation: Lanjutkan
 
 - id: posted_by
-  translation: Posted by
+  translation: Ditulis oleh
 
 - id: date
-  translation: Date
+  translation: Tanggal
 
 - id: time
-  translation: time
+  translation: waktu
 
 - id: category
   translation: Kategori
 
 - id: related_course
-  translation: Related Course
+  translation: Kursus Terkait
 
 - id: duration
-  translation: duration
+  translation: durasi
 
 - id: weekly
-  translation: weekly
+  translation: mingguan
 
 - id: fee
-  translation: fee
+  translation: biaya
 
 - id: teacher
-  translation: teacher
+  translation: guru
 
 - id: location
-  translation: location
+  translation: lokasi
 
 - id: entry_fee
-  translation: entry fee
+  translation: biaya masuk
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: Pembicara di Event
 
 - id: more_event
-  translation: More Events
+  translation: Acara Lain
 
 - id: join
-  translation: Join
+  translation: Gabung
   
 - id: enter_email
-  translation: Enter your email…
+  translation: Masukkan email Anda…
 
 - id: company
-  translation: company
+  translation: perusahaan
 
 - id: links
-  translation: links
+  translation: tautan
 
 - id: courses
-  translation: Courses
+  translation: Kursus
 
 - id: new_notice
-  translation: new notice
+  translation: pemberitahuan baru
 
 - id: call
-  translation: call
+  translation: panggilan
 
 - id: email
   translation: email
 
 - id: all
-  translation: All
+  translation: Semua
 
 - id: interest
-  translation: SUMMARY OF ACTIVITIES/INTERESTS
+  translation: RINGKASAN KEGIATAN/MINAT
 
 - id: our_teachers
   translation: Our Teachers
 
 - id: download
-  translation: Download
+  translation: Unduh

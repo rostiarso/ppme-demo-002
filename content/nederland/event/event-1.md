@@ -1,49 +1,66 @@
 ---
-title: "Social media and behavior economics conference"
+title: "Socialisatie PPME Den Haag"
 # Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2022-03-19T00:00:00Z"
 # event date
-date: "2030-03-09T15:27:17+06:00"
+date: "2021-12-11T19:00:00+01:00"
+duration: "2 uur"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "Socialisatie PPME Den Haag voor Bestuur 2021-2023"
 # Event image
 image: "images/events/event-1.jpg"
 # location
-location: "Dhanmondi, Dhaka"
-# entry fee
-fee: "From: $699"
-# apply url
-apply_url : "#"
+location: "Online Zoom"
 # event speaker
 speaker:
   # speaker loop
-  - name : "Jack Mastio"
+  - name : "Eddy Sandino"
     image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
+    designation : "PPME Den Haag Lead"
 
   # speaker loop
-  - name : "John Doe"
+  - name : "Fitri Gaylani Sabariah"
     image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
+    designation : "MC"
 
   # speaker loop
-  - name : "Randy Luis"
+  - name : "Ilman Sulchan"
+    image : "images/event-speakers/speaker-2.jpg"
+    designation : "Quizmaster"
+
+  # speaker loop
+  - name : "dhr. Tahmip"
     image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
+    designation : "Doa"
 
   # speaker loop
-  - name : "Alfred Jin"
+  - name : "dhr. Hambali Maksum"
     image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
+    designation : "Imaam"
+
+  - name : "dhr. Ludo Jongmans"
+    image : "images/event-speakers/speaker-4.jpg"
+    designation : "Imaam"
 
 # type
 type: "event"
 ---
 
-### About Event
+Bismillaahhirrohmaannirrohiim, PPME Den Haag nodigt u uit!  **Socialization Event PPME Den Haag**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+| Time          | Program  |
+|---------------|----------|
+| 19:00 – 19:05 | Al Fatihah door dhr. Tahmip, opening door MC Fitri Gaylani Sabariah (in het Indonesisch en Nederlands) |
+| 19:05 – 19:15 | Openingsgesprek – dhr. Hambali Maksum en dhr. Ludo Jongmans |
+| 19:15 – 19:20 | Gallerij presentatie PPME DH |
+| 19:20 – 19:40 | Eddy Sandino: Introductie van het Bestuur van de PPME Den Haag ‘21/’23 <br/> en de Commissieleden Dakwah, Ibadah, Facilitair, Gemeenschap, Communicatie |
+| 19:40 – 19:45 | Quiz ‘Ik ❤️ PPME Den Haag’ door Quizmaster: Ilman Sulchan |
+| 19:45 – 20:05 | Majelis Yasin Tahlil dan Istigotsah en Al-Moe’minoen |
+| 20:05 – 20:15 | Interactie met aanwezigen |
+| 20:15 – 20:45 | Jong Volwassenen, Jongeren en Kinderen |
+| 20:45 – 20:55 | Interactie met aanwezigen |
+| 20:55 – 21:00 | Afsluiting met dua |
