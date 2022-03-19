@@ -1,5 +1,5 @@
 - id: read_more
-  translation: ees meer
+  translation: Lees meer
 
 - id: contact_form
   translation: Contactformulier
@@ -68,7 +68,7 @@
   translation: toegangsprijs
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: Sprekers bij evenementen
 
 - id: more_event
   translation: Meer evenementen
