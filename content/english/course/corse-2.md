@@ -45,34 +45,6 @@ speaker:
 type: "event"
 ---
 
-Bismillaahhirrohmaannirrohiim, PPME Den Haag nodigt u uit! 
+### About Event
 
-Event: Socialization Event PPME Den Haag
-
-Datum: zaterdag 11 december, 2021, 7 jumadil awwal 1443 
-
-Tijd: 19.00-21.00
-
- 
-
-Susunan Acara/Programma:
-
-19:00 – 19:05  Al Fatihah door dhr. Tahmip, opening door MC Fitri Gaylani Sabariah (in het Indonesisch en Nederlands)
-
-19:05 – 19:15  Openingsgesprek – dhr. Hambali Maksum en dhr. Ludo Jongmans
-
-19:15 – 19:20  Gallerij presentatie PPME DH
-
-19:20 – 19:40  Eddy Sandino; Introductie van het Bestuur van de PPME Den Haag ‘21/’23 en de Commissieleden Dakwah, Ibadah, Facilitair, Gemeenschap, Communicatie
-
-19:40 – 19:45  Quiz ‘Ik ❤️ PPME Den Haag’ door Quizmaster: Ilman Sulchan
-
-19:45 – 20:05  Majelis Yasin Tahlil dan Istigotsah en Al-Moe’minoen
-
-20:05 – 20:15  Interactie met aanwezigen
-
-20:15 – 20:45  Jong Volwassenen, Jongeren en Kinderen
-
-20:45 – 20:55  Interactie met aanwezigen
-
-20:55 – 21:00  Afsluiting met dua
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
