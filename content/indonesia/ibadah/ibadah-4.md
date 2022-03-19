@@ -5,7 +5,7 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Kematian dan informasi terkait mengenai proses pemakaman dengan bantuan dari PPME Den Haag"
+description : "Informasi terkait mengenai proses pemakaman dan bantuan dari PPME Den Haag"
 # post thumbnail
 image: "images/blog/post-1.jpg"
 # post author

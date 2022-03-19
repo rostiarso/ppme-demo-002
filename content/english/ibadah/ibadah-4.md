@@ -5,14 +5,14 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Passing Away and the support that can be provided by PPME Den Haag"
+description : "Passing away and the support that can be provided by PPME Den Haag"
 # post thumbnail
 image: "images/blog/post-1.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
-tags: ["Marriage"]
+tags: ["Pass away"]
 # type
 type: "post"
 ---
@@ -86,8 +86,7 @@ Do you want to be buried in a country other than the Netherlands? Then contact t
  
 * Are you there when someone dies? Then cover the deceased from head to toe with a (white) cloth.
 * Call the funeral insurance company and report the death.
-* Then call one of the Commission coordinators Jenazah
-* PPME Administration: 06-82 68 86 48
+* Then call one of the coordinators in PPME Commission  Jenazah 📱  **{{< param phone_komisi_jenazah >}}**
 
 We can well imagine that emotions take over when a loved one dies. It is all the more important that matters are properly arranged and/or discussed in advance. Of course, there is not always an opportunity for this before a death. For example, due to a sudden event or absence of reliable or helpful relatives.
 

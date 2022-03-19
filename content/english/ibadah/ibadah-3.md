@@ -12,7 +12,7 @@ image: "images/blog/post-1.jpg"
 author: "PPME Den Haag"
 # taxonomy
 categories: ["Ibadah"]
-tags: ["Marriage"]
+tags: ["Mualaf"]
 # type
 type: "post"
 ---

@@ -69,11 +69,7 @@ Wil je in een ander land dan Nederland begraven worden? Neem dan contact op met 
 
 * Ben je erbij als iemand overlijdt? Bedek de overledene dan van top tot teen met een (wit) doek.
 * Bel de uitvaartverzekeringsmaatschappij en geef het overlijden door.
-* Bel daarna een van de coördinatoren van de Commissie Jenazah
-
- 
-
- ### PPME Beheer: {{< param phone_komisi_jenazah >}}
+* Bel daarna een van de coördinatoren van de Commissie Jenazah 📱 **{{< param phone_komisi_jenazah >}}**
 
  
 We kunnen goed voorstellen dat emoties de overhand nemen als een naaste overlijdt. Des te belangrijker is het dat zaken vooraf goed geregeld zijn en/of besproken zijn. Uiteraard is hier voor een overlijden niet altijd gelegenheid voor. Bijvoorbeeld door een plotseling geval of afwezigheid van betrouwbare of behulpzame nabestaanden.
