@@ -73,7 +73,7 @@ Wil je in een ander land dan Nederland begraven worden? Neem dan contact op met 
 
  
 
- ### PPME Beheer: 06-82 68 86 48
+ ### PPME Beheer: {{< param phone_komisi_jenazah >}}
 
  
 We kunnen goed voorstellen dat emoties de overhand nemen als een naaste overlijdt. Des te belangrijker is het dat zaken vooraf goed geregeld zijn en/of besproken zijn. Uiteraard is hier voor een overlijden niet altijd gelegenheid voor. Bijvoorbeeld door een plotseling geval of afwezigheid van betrouwbare of behulpzame nabestaanden.
