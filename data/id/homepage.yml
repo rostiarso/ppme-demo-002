@@ -44,7 +44,7 @@ banner_feature:
 about:
   enable : true
   title : "Tentang PPME"
-  image : "images/about/about-ppme.jpg"
+  image : "images/about/about-ppme.webp"
   content : "Pada tanggal 12 April 1971 di Den Haag, dua puluh anggota musyawarah telah berkumpul, salah satunya Abdurrachman Wahid (Gus Dur), mantan Presiden RI ke-4. Musyawarah ini melahirkan organisasi Persatuan Pemuda Muslim se-Eropa (PPME).  Sejak itu PPME menambah komunitas Muslim asing di Belanda di samping komunitas dari Turki, Maroko, Suriname, dan Pakistan. Setelah PPME disahkan oleh Ratu Juliana di tahun 1974, kegiatan-kegiatan sosialisasi pun mulai padat. Kerja sama dengan komunitas-komunitas Muslim di Belanda pun terjalin."
   button:
     enable : true

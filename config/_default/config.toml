@@ -10,8 +10,9 @@ paginate = "6"
 summaryLength = "10"
 # disqus short name
 disqusShortname = "ppme-demo-002" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # desable language from here
+
+
+defaultContentLanguage = "nl"
 
 pluralizelisttitles = false
 
@@ -61,6 +62,7 @@ phone_komisi_jenazah = "0682688948"
 email = "info@ppmedenhaag.nl"
 # contact form action
 contact_form_action = "https://formspree.io/f/mknyzkkn" # contact form works with https://formspree.io
+#contact_form_action = "https://submit-form.com/rPJDglWY" # contact form works with https://submit-form.com
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -75,8 +77,8 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [params.subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+#mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
+#mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
 [params.map]
@@ -103,9 +105,9 @@ link = "https://www.facebook.com/PPMEcabDenHaag/"
 #link = "#"
 
 [[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+#title = "instagram"
+#icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+#link = "#"
 
 #[[params.social]]
 #title = "github"

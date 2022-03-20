@@ -4,7 +4,7 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/about/about-ppme.jpg"
+image: "images/about/about-ppme.webp"
 # meta description
 description : "History about the long journey of PPME as organization and it's activities"
 ---
