@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Online Indonesian Meeting, January 1st 2022"
 # Event image
-image: "images/events/event-1.jpg"
+image: "images/events/event-2.jpg"
 # location
 location: "Online Zoom"
 # event speaker

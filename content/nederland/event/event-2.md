@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "De Indonesische taalrecitaties zullen online worden gehoude"
 # Event image
-image: "images/events/event-1.jpg"
+image: "images/events/event-2.jpg"
 # location
 location: "Online Zoom"
 # event speaker

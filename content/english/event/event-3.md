@@ -12,7 +12,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Fiqh Study of the Prayer Chapter with Ustazd Nur Hasyim Subadi LC. MA."
 # Event image
-image: "images/events/event-1.jpg"
+image: "images/events/event-3.jpg"
 # location
 location: "Online MS Teams"
 # event speaker
