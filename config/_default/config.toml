@@ -66,7 +66,7 @@ contact_form_action = "https://formspree.io/f/mknyzkkn" # contact form works wit
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
-top_header = true
+top_header = false
 
 # Preloader
 [params.preloader]
