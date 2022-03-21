@@ -61,7 +61,8 @@ mobile = "+31-to-be-confirmed"
 phone_komisi_jenazah = "0682688948"
 email = "info@ppmedenhaag.nl"
 # contact form action
-contact_form_action = "https://formspree.io/f/mknyzkkn" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mvolqyea" # contact form works with https://formspree.io
+#contact_form_action = "https://formspree.io/f/mknyzkkn" # contact form works with https://formspree.io
 #contact_form_action = "https://submit-form.com/rPJDglWY" # contact form works with https://submit-form.com
 # Google Analitycs
 google_analitycs_id = "" # your id
