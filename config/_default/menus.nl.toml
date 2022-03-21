@@ -54,7 +54,7 @@ weight = 3
 
   
 [[main]]
-name = "Kontakt"
+name = "Contact"
 url = "contact/"
 weight = 4
 
