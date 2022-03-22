@@ -56,7 +56,7 @@ Jika anda ingin dimakamkan di negara selain Belanda, jangan lupa hubungi kedutaa
 
 * Jika anda ada di sana ketika seseorang meninggal, maka tutuplah  jenazah dari ujung kepala sampai ujung kaki dengan kain (putih).
 * Hubungi perusahaan asuransi pemakaman dan laporkan kematiannya.
-* Kemudian hubungi koordinator Komisi Jenazah : 📱 **{{< param phone_komisi_jenazah >}}**
+* Kemudian hubungi PPME Den Haag Komisi Jenazah via {{< param email >}}
 
 Kita dapat membayangkan dengan baik bahwa kerabat akan berduka dan tidak nyaman ketika urusan jenazah diambil alih ketika orang yang dicintai meninggal. Tetapi yang lebih penting adalah bahwa hal-hal diatur dengan benar, dan/atau didiskusikan terlebih dahulu. Tentu saja, tidak selalu ada kesempatan untuk ini sebelum kematian. Misalnya, karena kejadian mendadak atau tidak adanya kerabat yang dapat diandalkan atau membantu.
 Kami melakukan yang terbaik, dengan Kehendak Allah, untuk membuat pemakaman semulus mungkin dan sesuai dengan aturan Islam.

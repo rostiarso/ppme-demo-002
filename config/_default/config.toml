@@ -9,7 +9,7 @@ paginate = "6"
 # post excerpt
 summaryLength = "10"
 # disqus short name
-disqusShortname = "ppme-demo-002" # get your shortname form here : https://disqus.com
+#disqusShortname = "ppme-demo-002" # get your shortname form here : https://disqus.com
 
 
 defaultContentLanguage = "nl"
@@ -58,7 +58,7 @@ author = "PPME Den Haag IT Team"
 # contact info
 address = "Medlerstraat 4, 2531 HA Den Haag"
 #mobile = "+31-to-be-confirmed"
-phone_komisi_jenazah = "0682688948"
+#phone_komisi_jenazah = "0682688948"
 email = "info@ppmedenhaag.nl"
 # contact form action
 contact_form_action = "https://formspree.io/f/mvolqyea" # contact form works with https://formspree.io
