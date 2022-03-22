@@ -17,26 +17,16 @@ tags: ["Toetreden", "Mualaf"]
 type: "post"
 ---
 
-Een bekeerling is iemand die tot de islam is toegetreden. Om dit te kunnen doen, moet je de shahadah uitspreken. Na het uitspreken van de shahadah wordt iemand moslim genoemd.
+
+Voel je leegte in je hart en zoek je antwoorden op jouw vragen over spirituele en wereldse zaken? Jouw zoektocht vindt bij ons haar eindbestemming. Hier bij PPME Den Haag kunnen we jou, kosteloos en omwille van Allah S.W.T., faciliteren om jou tot Allah S.W.T. te brengen door de Islam vrijwillig te doen omarmen en hierdoor Zijn liefde te kunnen voelen. We verzorgen jouw bekering, de sjahada. 
+ 
 
 De woorden die je dient uit te spreken om moslim te worden zijn:
-
 > **Ik getuig dat er geen God is behalve Allah en ik getuig dat Muhammad zijn profeet is.**
+>
+> Let op dat in de Islam geen dwang is. Moslim worden moet een vrije keus zijn. Een keus die je volledig voor jezelf maakt.
 
-
-PPME Den Haag faciliteert in het proces van de toetreding tot de islam. Bijvoorbeeld door geïnteresseerden in contact te brengen met een imaam. Samen kunnen vragen worden beantwoord en eventuele onduidelijkheden worden verhelderd.
-
- 
-#### Ben je geïnteresseerd?
-
- 
-
-Vul dan  [het formulier](/forms/Mualaf_Formulier_NL.docx)  in. De gegevens gebruiken we voor het certificaat dat je krijgt na het toetreden.
-
- 
-
+### Ben je geïnteresseerd?
+Vul dan het [het formulier](/forms/Mualaf_Formulier_NL.docx) in. De gegevens gebruiken we voor het certificaat dat je krijgt na de toetreding tot de Islam.
 Heb je het formulier ingevuld? Stuur dan een e-mail naar {{< param email >}} om een afspraak te maken bij de moskee. Of kom langs op zaterdagen vanaf 16.00 uur. Neem bij je bezoek aan de moskee samen met het formulier ook een kopie van je legitimatie mee. Bijvoorbeeld een paspoort of identiteitskaart. En een pasfoto.
-
- 
-
 Tijdens de afspraak in de moskee bespreken we wanneer de toetreding zal gebeuren. We zullen zo veel mogelijk proberen de toetreding tijdens onze zaterdagbijeenkomsten houden.

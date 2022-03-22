@@ -17,7 +17,7 @@ tags: ["Al Moe’minoen"]
 type: "post"
 ---
 
-Meskipun PPME berasal dari Indonesia, berkat perkawinan campuran dan perluasan keluarga, kami juga memiliki kelompok Belanda di dalam asosiasi: Al Moe’minoen.
+De meeste mensen uit deze groep zijn bekeerlingen. In de groep Al Moe’minoen worden er Nederlandstalige lezingen gehouden. Zij komen minstens 1x per week bij elkaar in de moskee met het doel hun kennis over de Islam te vergroten en te verbeteren
 
 FAQ:
 * Hoe schrijf ik me in voor de lezingen?

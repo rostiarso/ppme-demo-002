@@ -1,5 +1,5 @@
 ---
-title: "Qur'anlessen"
+title: "Qur'anlessen en Godsdienstlessen voor kinderen."
 date: 2022-03-16T15:27:17+01:00
 draft: false
 # page title background image
@@ -17,14 +17,7 @@ tags: ["Qur’anlessen"]
 type: "post"
 ---
 
-De Qur’anlessen* voor kinderen verdelen we zoals je hieronder ziet:
-
- 
-| Leeftijd (jaar) | Tijd |
-|-----------------|------|
-| 5 - 8           |      |
-| 9 - 13          |      |
-| 14 - 18         |      |          
+Aan kinderen vanaf 5 jaar worden Qur’anlessen en godsdienstlessen gegeven door gekwalificeerde docenten. De godsdienstlessen zijn bedoeld om de kinderen goede basiskennis te geven van de Islam.        
  
 
 FAQ:

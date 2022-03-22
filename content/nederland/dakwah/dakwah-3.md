@@ -19,13 +19,9 @@ type: "post"
 
 De PPME is in de jaren ’70 opgericht door een groep Islamitisch Indonesische studenten. Tot op de dag van vandaag proef je de sfeer en zie je de gebruiken die typerend zijn voor Indonesië en Indonesiërs.
 
- 
 
 Ook de Indonesisch gesproken bijeenkomsten worden nog steeds georganiseerd. Die vinden plaats op de tweede helft van de zaterdag. Meestal voor of na het Maghrib gebed.
-
- 
-
-Een bijeenkomst duurt ongeveer 1 á 2 uur en bestaat afwisselend uit het gezamenlijk lezen van de Qur’an, dzikr en lezingen over fiqh en aqidah. En soms komt het voor dat er gastsprekers uit Indonesië komen.
+Een bijeenkomst duurt ongeveer 2,5 uur en bestaat afwisselend uit het gezamenlijk lezen van de Qur’an, dzikr en lezingen over fiqh en aqidah. En soms komt het voor dat er gastsprekers uit Indonesië komen.
 
 FAQ:
 * Moet ik eerst lid zijn van de vereniging?
