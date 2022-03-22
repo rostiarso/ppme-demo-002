@@ -6,7 +6,7 @@ draft: false
 # about image
 image: "images/about/about-ppme.webp"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : ""
 ---
 
 ### PPME en haar geschiedenis

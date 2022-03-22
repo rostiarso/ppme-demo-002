@@ -5,9 +5,9 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Trouwen in de islam en ondersteuning van PPME Den Haag"
+description : ""
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/ibadah/nikah.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy

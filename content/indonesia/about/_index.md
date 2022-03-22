@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # about image
 image: "images/about/about-ppme.webp"
 # meta description
-description : "Sejarah perkembangan Persatuan Muslim Indonesia di Belanda"
+description : ""
 ---
 
 

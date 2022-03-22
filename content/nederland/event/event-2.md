@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "De Indonesische taalrecitaties zullen online worden gehoude"
+description : ""
 # Event image
 image: "images/events/event-2.jpg"
 # location
@@ -19,12 +19,12 @@ location: "Online Zoom"
 speaker:
   # speaker loop
   - name : "dhr. Deni"
-    image : "images/event-speakers/speaker-1.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "MC"
 
   # speaker loop
   - name : "Bpk. Isyak"
-    image : "images/event-speakers/speaker-2.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "Imaam"
 
 

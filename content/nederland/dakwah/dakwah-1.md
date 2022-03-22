@@ -5,9 +5,9 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Qur’anlessen met PPME Den Haag"
+description : ""
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/dakwah/quran-lesson.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy

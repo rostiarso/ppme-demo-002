@@ -34,6 +34,7 @@
             <li class="mb-2 text-color">{{ site.Params.address | markdownify }}</li>
             <li class="mb-2 text-color">{{ site.Params.email  }}</li>
             <li class="mb-2 text-color">{{ site.Params.mobile | markdownify }}</li>
+            <li class="mb-2 text-color copyright">{{ site.Params.copyright | markdownify }}</li>
           </ul>
         </div>
         <!-- company -->
@@ -79,12 +80,12 @@
     </div>
   </div>
 -->
-  <!-- copyright -->
-  <div class="copyright  bg-footer col-lg-8 col-sm-12">
+  <!-- copyright 
+  <div class="copyright bg-footer col-lg-8 col-sm-12">
     <div class="container">
       <div class="row">
         <div class="col-md-7 text-md-left text-center">
-          <p class="mb-3 mb-md-0">{{ site.Params.copyright | markdownify }}</p>
+          {{ site.Params.copyright | markdownify }}
         </div>
         <div class="col-md-5 text-md-right text-center">
           <ul class="list-inline">
@@ -96,6 +97,7 @@
       </div>
     </div>
   </div>
+-->
 </footer>
 <!-- /footer -->
 

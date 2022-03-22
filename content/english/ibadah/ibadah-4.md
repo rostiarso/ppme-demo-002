@@ -5,9 +5,9 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Passing away and the support that can be provided by PPME Den Haag"
+description : ""
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/ibadah/pass-away.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy

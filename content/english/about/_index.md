@@ -6,7 +6,7 @@ draft: false
 # about image
 image: "images/about/about-ppme.webp"
 # meta description
-description : "History about the long journey of PPME as organization and it's activities"
+description : ""
 ---
 
 ### History of PPME 

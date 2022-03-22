@@ -5,9 +5,9 @@ draft: false
 # page title background image
 #bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Information related to zakat, infaq and sadaqah"
+description : ""
 # post thumbnail
-image: "images/blog/post-1.jpg"
+image: "images/ibadah/zakat.jpg"
 # post author
 author: "PPME Den Haag"
 # taxonomy

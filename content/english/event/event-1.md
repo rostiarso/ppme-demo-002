@@ -10,7 +10,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Socialization Event for PPME Den Haag"
+description : ""
 # Event image
 image: "images/events/event-1.jpg"
 # location
@@ -19,31 +19,31 @@ location: "Online Zoom"
 speaker:
   # speaker loop
   - name : "Eddy Sandino"
-    image : "images/event-speakers/speaker-1.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "PPME Den Haag Lead"
 
   # speaker loop
   - name : "Fitri Gaylani Sabariah"
-    image : "images/event-speakers/speaker-2.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "MC"
 
   # speaker loop
   - name : "Ilman Sulchan"
-    image : "images/event-speakers/speaker-2.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "Quizmaster"
 
   # speaker loop
   - name : "dhr. Tahmip"
-    image : "images/event-speakers/speaker-3.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "Doa"
 
   # speaker loop
   - name : "dhr. Hambali Maksum"
-    image : "images/event-speakers/speaker-4.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "Imaam"
 
   - name : "dhr. Ludo Jongmans"
-    image : "images/event-speakers/speaker-4.jpg"
+    image : "images/event-speakers/speaker-1.svg"
     designation : "Imaam"
 
 # type
